@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-minimal
+title: Emotion Analysis from Text Tutorial at EACL 2023
 
 ---
 
