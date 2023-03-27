@@ -1,7 +1,5 @@
 ---
 theme: jekyll-theme-minimal
-title: Emotion Analysis from Text Tutorial at EACL 2023
-description: Website accompanying the Tutorial at the EACL 2023 in Dubrovnik.
 
 ---
 
