@@ -1,7 +1,5 @@
 ---
-theme: jekyll-theme-minimal
-title: Emotion Analysis from Text
-description: Tutorial at EACL 2023
+theme: default
 
 ---
 
