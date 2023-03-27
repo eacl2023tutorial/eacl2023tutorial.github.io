@@ -1,6 +1,6 @@
 title: Emotion Analysis 
 logo: /img/logo.png
 description: Tutorial at EACL 2023
-remote_theme: yaoyao-liu/minimal-light
+theme: midnight
 github:
   is_project_page: false
