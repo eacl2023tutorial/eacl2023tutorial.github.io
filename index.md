@@ -18,25 +18,25 @@ The tutorial will be given by two people:
 
 ## Session 1
 
-* Introduction and Psychological Background Knowledge
-* Emotion Recognition Reliability
-* Use cases and societal impact
+* Emotion theories in psychology
+* Emotion recognition reliability in vision and language and what we can expect in NLP
+* Use cases and social impact
 
 ## Session 2
 
 * Resources for emotion classification and intensity prediction
-* Feature-based and neural network methods
-* Zero-shot classification
-* Small annotation exercise
+* Resources for emotion intensity prediction
+* Non-neural models
+* Multi-task and transfer-based models
+* Zero-shot and few-shot learning
+* Interactive annotation exercise
 
 ## Session 3
 
-* Open challenges
-* Evaluation-based emotion analysis
-* Emotin role labeling
-* Relation to other tasks
+* Event evaluation-based approaches
+* Emotion role labeling and stimulus/cause detection
+* Open challenges in emotion analysis
 * Ethical considerations
-* Closing
 
 ## Proposed reading
 
@@ -45,4 +45,9 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 * [The book on affective computing by Rosalind W. Picard.](https://mitpress.mit.edu/books/affective-computing). This book is broader than this class and discusses emotions and affect as it is modelled with computers in more general.
 * [The book on sentiment analysis by Bing Liu](https://doi.org/10.1017/CBO9781139084789) [(online version is available here](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)). This book focuses on text analysis, but more on opinion mining and sentiment analysis, less on emotions.
 * [The handbook of emotions by Feldman Barrett, Lewis, Haviland-Jones](https://www.guilford.com/books/Handbook-of-Emotions/Barrett-Lewis-Haviland-Jones/9781462536368/editors). This book provides a very good overview on the theories of emotions from a psychological perspective.
+
+## Links
+
+* [Tutorial Summary (as it will be part of the EACL proceedings](EmotionAnalysis-EACL-Tutorial-Summary.pdf)
+* [Teaser Video (as it will be part of the Open](EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
 
