@@ -14,6 +14,10 @@ The tutorial will be given by two people:
 * [Sanja Stajner](https://stajnersanja.wixsite.com/sanja)
 * [Roman Klinger](https://www.romanklinger.de/)
 
+## Date and Place
+
+The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, in Dubrovnik and streamed via Zoom.
+
 # Sessions
 
 ## Session 1
