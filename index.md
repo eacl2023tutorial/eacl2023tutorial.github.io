@@ -14,6 +14,10 @@ The tutorial will be given by two people:
 * [\v{S}anja Stajner](https://stajnersanja.wixsite.com/sanja)
 * [Roman Klinger](https://www.romanklinger.de/)
 
+## Date and Place
+
+The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, in Dubrovnik and streamed via Zoom.
+
 # Sessions
 
 ## Session 1
@@ -49,7 +53,7 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 ## Links
 
 * [Tutorial Summary (as it will be part of the EACL proceedings)](EmotionAnalysis-EACL-Tutorial-Summary.pdf)
-* [Teaser Video (as it will be part of the Underline Platform)](EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
+* [Teaser Video (as it will be part of the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
 
 ## Reference
 
