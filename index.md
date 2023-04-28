@@ -49,11 +49,11 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 * [The book on sentiment analysis by Bing Liu](https://doi.org/10.1017/CBO9781139084789) [(online version is available here](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf)). This book focuses on text analysis, but more on opinion mining and sentiment analysis, less on emotions.
 * [The handbook of emotions by Feldman Barrett, Lewis, Haviland-Jones](https://www.guilford.com/books/Handbook-of-Emotions/Barrett-Lewis-Haviland-Jones/9781462536368/editors). This book provides a very good overview on the theories of emotions from a psychological perspective.
 
-## Links
+## Material
 
 * [Tutorial Summary (as it will be part of the EACL proceedings)](EmotionAnalysis-EACL-Tutorial-Summary.pdf)
 * [Teaser Video (as it will be part of the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
-* [Session at Underline](https://underline.io/events/383/sessions/14843/lecture/72099-emotion-analysis-from-texts)
+* [Session at Underline](https://underline.io/events/383/sessions?eventSessionId=14843)
 
 ## Reference
 
