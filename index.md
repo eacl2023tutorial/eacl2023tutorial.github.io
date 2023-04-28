@@ -11,7 +11,7 @@ Welcome to our tutorial on emotion analysis from text. We are happy that you are
 
 The tutorial will be given by two people:
 
-* [\v{S}anja Stajner](https://stajnersanja.wixsite.com/sanja)
+* [Šanja Stajner](https://stajnersanja.wixsite.com/sanja)
 * [Roman Klinger](https://www.romanklinger.de/)
 
 ## Date and Place
@@ -29,7 +29,6 @@ The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, i
 ## Session 2
 
 * Resources for emotion classification and intensity prediction
-* Resources for emotion intensity prediction
 * Non-neural models
 * Multi-task and transfer-based models
 * Zero-shot and few-shot learning
@@ -37,9 +36,9 @@ The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, i
 
 ## Session 3
 
+* Open challenges in emotion analysis
 * Event evaluation-based approaches
 * Emotion role labeling and stimulus/cause detection
-* Open challenges in emotion analysis
 * Ethical considerations
 
 ## Proposed reading
