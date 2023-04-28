@@ -54,6 +54,7 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 
 * [Tutorial Summary (as it will be part of the EACL proceedings)](EmotionAnalysis-EACL-Tutorial-Summary.pdf)
 * [Teaser Video (as it will be part of the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
+* [Session at Underline](https://underline.io/events/383/sessions/14843/lecture/72099-emotion-analysis-from-texts)
 
 ## Reference
 
