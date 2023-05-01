@@ -51,8 +51,8 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 
 ## Material
 
-* [Tutorial Summary (as it will be part of the EACL proceedings)](EmotionAnalysis-EACL-Tutorial-Summary.pdf)
-* [Teaser Video (as it will be part of the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
+* [Tutorial Summary at the ACL Anthology](https://aclanthology.org/2023.eacl-tutorials.2)
+* [Teaser Video (as available at the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
 * [Session at Underline](https://underline.io/events/383/sessions?eventSessionId=14843)
 
 ## Reference
@@ -61,20 +61,22 @@ If you build on top of this tutorial and want to cite it, please use the followi
 
 ```
 @inproceedings{StajnerKlinger2023,
-  title = {Emotion Analysis in Text},
-  author = {Sanja \v{S}tajner and Roman Klinger},
-  booktitle = {Proceedings of the 17th Conference of the European
+  title =        "Emotion Analysis from Texts",
+  author =       "\v{S}tajner, Sanja and Klinger, Roman",
+  booktitle =    "Proceedings of the 17th Conference of the European
                   Chapter of the Association for Computational
-                  Linguistics: Tutorial Abstracts},
-  month = {May},
-  year = {2023},
-  address = {Dubrovnik, Croatia},
-  publisher = {Association for Computational Linguistics},
-  abstract = {Emotion analysis in text is an area of research that
+                  Linguistics: Tutorial Abstracts",
+  month =        may,
+  year =         "2023",
+  address =      "Dubrovnik, Croatia",
+  publisher =    "Association for Computational Linguistics",
+  url =          "https://aclanthology.org/2023.eacl-tutorials.2",
+  pages =        "7--12",
+  abstract =     "Emotion analysis in text is an area of research that
                   encompasses a set of various natural language
                   processing (NLP) tasks, including classification and
                   regression settings, as well as structured
-                  prediction tasks like role labeling or stimulus
+                  prediction tasks like role labelling or stimulus
                   detection. In this tutorial, we provide an overview
                   of research from emotion psychology which sets the
                   ground for choosing adequate NLP methodology, and
@@ -83,10 +85,9 @@ If you build on top of this tutorial and want to cite it, please use the followi
                   further discuss appraisal theories and how events
                   can be interpreted regarding their presumably caused
                   emotion and briefly introduce emotion role
-                  labeling. In addition to these technical topics, we
+                  labelling. In addition to these technical topics, we
                   discuss the use cases of emotion analysis in text,
                   their societal impact, ethical considerations, as
-                  well as the main challenges in the field.},
-  pdf = {https://eacl2023tutorial.github.io/EmotionAnalysis-EACL-Tutorial-Summary.pdf},
+                  well as the main challenges in the field.",
 }
 ```
