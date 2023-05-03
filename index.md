@@ -20,22 +20,21 @@ The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, i
 
 # Sessions
 
-## Session 1
+## Session 1 [09:00 – 10:30]
 
 * Emotion theories in psychology
 * Emotion recognition reliability in vision and language and what we can expect in NLP
 * Use cases and social impact
+* Resources for emotion classification and intensity prediction
+* Interactive annotation exercise
+
+## Coffee Break [10:30 - 11:15]
 
 ## Session 2
 
-* Resources for emotion classification and intensity prediction
 * Non-neural models
 * Multi-task and transfer-based models
 * Zero-shot and few-shot learning
-* Interactive annotation exercise
-
-## Session 3
-
 * Open challenges in emotion analysis
 * Event evaluation-based approaches
 * Emotion role labeling and stimulus/cause detection
