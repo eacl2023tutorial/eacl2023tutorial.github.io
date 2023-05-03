@@ -28,9 +28,9 @@ The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, i
 * Resources for emotion classification and intensity prediction
 * Interactive annotation exercise
 
-## Coffee Break [10:30 - 11:15]
+**Coffee Break [10:30 - 11:15]**
 
-## Session 2
+## Session 2 [11:15 – 12:45]
 
 * Non-neural models
 * Multi-task and transfer-based models
