@@ -17,7 +17,7 @@ The tutorial will be given by two people:
 
 ## Date and Place
 
-The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, in Dubrovnik and streamed via Zoom.
+The tutorial takes place on May 5, 2023, starting at 09:00. It takes three hours and will be hybrid, in Dubrovnik and streamed via Zoom. You can find the Zoom link below at the Underline Session.
 
 # Sessions
 
