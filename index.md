@@ -40,6 +40,7 @@ The tutorial takes place on May 5, 2023, starting at 09:00. It will be hybrid, i
 * Event evaluation-based approaches
 * Emotion role labeling and stimulus/cause detection
 * Ethical considerations
+* Closing
 
 ## Proposed reading
 
@@ -51,7 +52,16 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 
 ## Material
 
-* **Draft Slides** (will be made available in the morning of May 4, the final version will be published here and at ACL Anthology after the tutorial)
+Slides:
+
+*
+[**Draft Slides 1 on 1**](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-1x1.pdf)
+*
+[**Draft Slides 4 on 1**](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x2.pdf)
+* [**Draft Slides 8 on 1**](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x4.pdf)
+
+Other things:
+
 * [Tutorial Summary at the ACL Anthology](https://aclanthology.org/2023.eacl-tutorials.2)
 * [Teaser Video (as available at the Underline Platform)](https://www.romanklinger.de/EmotionAnalysis-EACL-Tutorial-Teaser.mp4)
 * [Session at Underline](https://underline.io/events/383/sessions?eventSessionId=14843)
