@@ -54,9 +54,12 @@ There are not yet any comprehensive books on emotion analysis from text, but the
 
 **Slides**:
 
-* [Draft Slides 1 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-1x1.pdf)
-* [Draft Slides 4 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x2.pdf)
-* [Draft Slides 8 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x4.pdf)
+* [Slides 1 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-1x1.pdf)
+* [Slides 4 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x2.pdf)
+* [Slides 8 on 1](EmotionAnalysis-Tutorial-EACL2023-Staijner-Klinger-2x4.pdf)
+
+Note: the bibliography currently contains only entries for Roman
+Klinger's parts.
 
 Other things:
 
