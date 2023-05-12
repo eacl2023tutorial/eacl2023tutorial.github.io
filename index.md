@@ -15,9 +15,18 @@ The tutorial will be given by two people:
 * [Šanja Stajner](https://stajnersanja.wixsite.com/sanja)
 * [Roman Klinger](https://www.romanklinger.de/)
 
+## Recording
+
+Underline recorded the whole tutorial session, we edited this to be focused on the main content of the tutorial.
+
+<video width="320" height="240" controls>
+  <source src="https://romanklinger.de/teaching/EmotionAnalysisTutorialEACL2023.mp4" type=video/mp4>
+</video>
+
+
 ## Date and Place
 
-The tutorial takes place on May 5, 2023, starting at 09:00. It takes three hours and will be hybrid, in Dubrovnik and streamed via Zoom. You can find the Zoom link below at the Underline Session.
+The tutorial took place on May 5, 2023, starting at 09:00. It took three hours and was hybrid, in Dubrovnik and streamed via Zoom. You can find the Zoom link below at the Underline Session.
 
 # Sessions
 
