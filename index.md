@@ -19,9 +19,7 @@ The tutorial will be given by two people:
 
 Underline recorded the whole tutorial session, we edited this to be focused on the main content of the tutorial.
 
-<video width="320" height="240" controls>
-<source src="https://romanklinger.de/teaching/EmotionAnalysisTutorialEACL2023.mp4" type=video/mp4>
-</video>
+https://romanklinger.de/teaching/EmotionAnalysisTutorialEACL2023.mp4
 
 
 ## Date and Place
