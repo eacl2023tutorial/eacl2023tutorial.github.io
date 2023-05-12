@@ -19,14 +19,14 @@ The tutorial will be given by two people:
 
 Underline recorded the whole tutorial session, we edited this to be focused on the main content of the tutorial.
 
-<!--
+
 <video src="https://romanklinger.de/teaching/EmotionAnalysisTutorialEACL2023.mp4" controls="controls" style="max-width: 730px;">
 </video>
--->
 
+<!--
 <video src="https://github.com/eacl2023tutorial/eacl2023tutorial.github.io/blob/main/EmotionAnalysisTutorialEACL2023.mp4" controls="controls" style="max-width: 730px;">
 </video>
-
+-->
 
 ## Date and Place
 
